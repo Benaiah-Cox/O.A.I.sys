@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\obj\Debug\C_A_I_P_.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\obj\Debug\C_A_I_P_.Form1.resources
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\obj\Debug\C_A_I_P_.Properties.Resources.resources
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\obj\Debug\C_A_I_P_.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\obj\Debug\C_A_I_P_.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\bin\Debug\C_A_I_P_.exe.config
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\bin\Debug\C_A_I_P_.exe
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\bin\Debug\C_A_I_P_.pdb
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\obj\Debug\C_A_I_P_.exe
+C:\Users\ben\source\repos\C_A_I_P_\C_A_I_P_\obj\Debug\C_A_I_P_.pdb
